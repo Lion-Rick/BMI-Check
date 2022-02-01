@@ -1,0 +1,10 @@
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.csproj.AssemblyReference.cache
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.Form1.resources
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.csproj.GenerateResource.cache
+C:\Users\herti\Desktop\BMI_1\BMI_1\bin\Debug\BMI_1.exe.config
+C:\Users\herti\Desktop\BMI_1\BMI_1\bin\Debug\BMI_1.exe
+C:\Users\herti\Desktop\BMI_1\BMI_1\bin\Debug\BMI_1.pdb
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.Properties.Resources.resources
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.csproj.CoreCompileInputs.cache
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.exe
+C:\Users\herti\Desktop\BMI_1\BMI_1\obj\Debug\BMI_1.pdb
