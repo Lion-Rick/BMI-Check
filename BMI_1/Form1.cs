@@ -57,18 +57,14 @@ namespace BMI_1
             double BMI = (int)((weight / (height * height)));
             label5.Text = BMI.ToString();
 
-            if (BMI <= 19)
-            {
-                label6.Text = "Underweight";
-            }
-            else if (BMI <= 25)
-            {
-                label6.Text = "Normal Weight";
-            }
-            else
-            {
-                label6.Text = "Overweight";
-            }
+            if (BMI < 16) label6.Text = "Very Severely Underweight";
+            else if (BMI < 17) label6.Text = "Severely Underweight";
+            else if (BMI < 18.5) label6.Text = "Underweight";
+            else if (BMI < 25) label6.Text = "Normal Weight";
+            else if (BMI < 30) label6.Text = "Over Weight";
+            else if (BMI < 35) label6.Text = "Over Class I";
+            else if (BMI < 40) label6.Text = "Over Class II";
+            else label6.Text = "Over Class III";
 
         }
 
